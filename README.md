@@ -1,0 +1,2 @@
+# pds
+Počítače do škol
