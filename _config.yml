@@ -1,5 +1,5 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title:        "Počítače do škol"
-description: "Stránky iniciativy Počítače do škol"
+description: "To není jen vyložit paletu počítačů na dvorku školy. Nechceme, aby to dopadlo, jako vždycky..."
 skin:         "/assets/css/skins/light.css"
 google_analytics: UA-169225713-1
