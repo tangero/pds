@@ -13,7 +13,7 @@ Zavést počítače do škol jako součást výbavy žáků i učitelů totiž n
 
 Zakladateli projektu jsou dvě součásti českého internetového inventáře, Patrick Zandl a Michal Bláha. Oba jsme stáli na počátku českého internetu a jestli něčemu rozumíme, pak právě technologiím, internetu a jejich dopadu na lidskou společnost. 
 
-Projekt Počítače do škol je neziskový projekt vzniklý 1. června 2020 právě za účelem negociace a realizace myšleny digitalizace českého školství. 
+Projekt Počítače do škol je neziskový projekt vzniklý 1. června 2020 právě za účelem negociace a realizace myšlenky digitalizace českého školství. 
 
 Sledujte tyto stránky, budeme zde postupně přinášet další informace. 
 
